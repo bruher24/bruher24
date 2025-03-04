@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Пишу на PHP с 2022 г., обладаю отличными знаниями языка</h3>
 
-## 💻 Технологии
+## 💻Технологии
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -31,7 +31,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <details open>
-  <summary> <h2> Лучшие проекты </h2> </summary>
+  <summary> <h2> ⭐Лучшие проекты </h2> </summary>
 <a href="https://github.com/bruher24/ai_doc">
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=AI_doc" />
 </a>
