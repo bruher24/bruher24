@@ -33,15 +33,15 @@
 <details open>
   <summary> <h2> ⭐Лучшие проекты </h2> </summary>
 <a href="https://github.com/bruher24/ai_doc">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=AI_doc" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=AI_doc" />
 </a>
 <a href="https://github.com/bruher24/webclinic">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=webclinic" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=webclinic" />
 </a>
 <a href="https://github.com/bruher24/homedr">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=homedr" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=homedr" />
 </a>
 <a href="https://github.com/bruher24/docdb">
-  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=docdb" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=docdb" />
 </a>
 </details>
