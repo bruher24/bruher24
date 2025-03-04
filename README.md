@@ -30,10 +30,18 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-## Лучшие проекты
+<details open>
+  <summary> <h2> Лучшие проекты </h2> </summary>
 <a href="https://github.com/bruher24/ai_doc">
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=AI_doc" />
 </a>
 <a href="https://github.com/bruher24/webclinic">
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=webclinic" />
 </a>
+<a href="https://github.com/bruher24/homedr">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=homedr" />
+</a>
+<a href="https://github.com/bruher24/docdb">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=docdb" />
+</a>
+</details>
