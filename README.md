@@ -1,5 +1,6 @@
-## 👋 Привет, я Дмитрий, PHP-разработчик.
-Пишу на PHP с 2022 г., обладаю отличными знаниями языка
+<h1 align="center">Привет, я Дмитрий, PHP-разработчик
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Пишу на PHP с 2022 г., обладаю отличными знаниями языка</h3>
 
 ## 💻 Технологии
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -28,3 +29,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+## Лучшие проекты
+<a href="https://github.com/bruher24/ai_doc">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=AI_doc" />
+</a>
+<a href="https://github.com/bruher24/webclinic">
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=webclinic" />
+</a>
