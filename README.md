@@ -38,10 +38,12 @@
 <a href="https://github.com/bruher24/webclinic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=webclinic" />
 </a>
-<a href="https://github.com/bruher24/homedr">
+<!--
+  <a href="https://github.com/bruher24/homedr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=homedr" />
 </a>
 <a href="https://github.com/bruher24/docdb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=docdb" />
 </a>
+  -->  
 </details>
