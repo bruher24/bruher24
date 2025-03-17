@@ -31,7 +31,7 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <details open>
-  <summary> <h2> ⭐Лучшие проекты </h2> </summary>
+  <summary> <h2> ⭐Проекты </h2> </summary>
 <a href="https://github.com/bruher24/ai_doc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=AI_doc" />
 </a>
