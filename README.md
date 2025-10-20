@@ -1,8 +1,11 @@
-<h1 align="center">Привет, я Дмитрий, PHP-разработчик
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Пишу на PHP с 2022 г., обладаю отличными знаниями языка</h3>
+<h1 align="center">Привет, я Дмитрий, PHP-разработчик <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-## 💻Технологии
+<h3 align="left">:white_check_mark:Ответственный и исполнительный сотрудник, нацеленный на результат</h3>
+<h3 align="left">:white_check_mark:Стремлюсь писать чистый, эффективный и поддерживаемый код</h3>
+<h3 align="left">:white_check_mark:Активно применяю принципы и паттерны проектирования ООП, SOLID, DRY, KISS, YAGNI</h3>
+<h3 align="left">:white_check_mark:Имею опыт полного цикла разработки</h3>
+
+## 💻Используемые мной технологии
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
