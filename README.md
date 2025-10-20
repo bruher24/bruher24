@@ -32,10 +32,10 @@
 
 <details open>
   <summary> <h2> ⭐ </h2> </summary>
-<a href="https://github.com/bruher24/ai_doc">
+<a href="https://github.com/bruher24/bluebox">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=bluebox" />
 </a>
-<a href="https://github.com/bruher24/webclinic">
+<a href="https://github.com/bruher24/bookswap">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=bookswap" />
 </a>
 <!--
