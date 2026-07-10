@@ -49,12 +49,12 @@
 </a>
 </details> -->
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bruher24/bruher24/blob/output/github-contribution-grid-snake.svg)
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg">
+    srcset="https://github.com/bruher24/bruher24/blob/output/github-contribution-grid-snake-dark.svg">
   <img
-    src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg">
+    src="https://github.com/bruher24/bruher24/blob/output/github-contribution-grid-snake.svg">
 </picture>
