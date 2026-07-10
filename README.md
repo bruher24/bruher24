@@ -33,20 +33,18 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<details open>
+<!-- <details open>
   <summary> <h2> ⭐ </h2> </summary>
-<a href="https://github.com/bruher24/bluebox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=bluebox" />
+<a href="https://github.com/bruher24/BlueBox">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=BlueBox" />
 </a>
-<a href="https://github.com/bruher24/bookswap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=bookswap" />
+<a href="https://github.com/bruher24/Bookswap">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=Bookswap" />
 </a>
-<!--
   <a href="https://github.com/bruher24/homedr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=homedr" />
 </a>
 <a href="https://github.com/bruher24/docdb">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bruher24&repo=docdb" />
 </a>
-  -->  
-</details>
+</details> -->
