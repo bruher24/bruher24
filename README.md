@@ -57,4 +57,8 @@ Backend-разработчик на PHP. Пишу на Laravel и Symfony, пр�
   </a>
 </details>
 
+## 📱 Контакты
+**E-mail:** glushkovd2424@gmail.com  
+**Telegram:** @bruher24
+
 ![Snake animation](https://github.com/bruher24/bruher24/blob/output/github-contribution-grid-snake-dark.svg)
